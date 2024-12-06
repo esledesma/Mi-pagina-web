@@ -8,3 +8,5 @@ Muchas gracias por visitar este proyecto
 - Crear una página web con github pages
 
 Gracias por todo, querido usuario de Internet <3
+
+theme: jekyll-theme-minimal
